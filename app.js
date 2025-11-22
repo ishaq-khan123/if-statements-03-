@@ -103,6 +103,35 @@ console.log("hello world!");
 
 
 
+// let water = 3.5;
+
+// if (water <= 2){
+//     console.log("sendentry");
+    
+// } else if (water >=2.1 && water <=3){
+//     console.log("Moderate");
+    
+// } else {
+//     console.log("Active");
+    
+// }
+
+
+// let marks = 42;
+
+// if (marks >=40){
+//     console.log("PASS");
+    
+// } else{
+//     console.log("FAIL");
+    
+// }
+
+
+
+
+
+
 
 
 
