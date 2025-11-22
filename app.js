@@ -140,6 +140,22 @@ console.log("hello world!");
 
 
 
+// let meal = 23;
+
+// if (meal >=6 && meal <=10){
+//     console.log("Breakfast");
+    
+// } else if (meal >=12 && meal <=14){
+//     console.log("Lunch");
+    
+// } else if (meal >=18 && meal <=21){
+//     console.log("Dinner");
+    
+// } else {
+//     console.log("Any other time: Snack");
+    
+// }
+
 
 
 
