@@ -157,6 +157,36 @@ console.log("hello world!");
 // }
 
 
+// let age = prompt("Enter your age :")
+
+// if (age >= 18){
+//     alert("You are adult")
+// } else {
+//     alert("You are a minor")
+// }
+
+
+//////////////////////////////////////////////  Error   ///////////////////
+// let num = prompt("Enter are a number")
+// let operator = ("+")
+
+// if (num === operator){
+//     console.log("Positive number", num);
+    
+// }
+
+
+
+// let num = prompt("Enter a number")
+
+// if (num % 2 === 0){
+//     console.log("even number");
+    
+// } else {
+//     console.log("odd number");
+    
+// }
+
 
 
 
