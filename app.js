@@ -128,6 +128,16 @@ console.log("hello world!");
 // }
 
 
+// let phonetheme = 18;
+
+// if (phonetheme >=6 && phonetheme <=17){
+//     console.log("Light mode");
+    
+// } else {
+//     console.log("Dark mode sleep time");
+    
+// }
+
 
 
 
