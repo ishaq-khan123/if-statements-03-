@@ -85,6 +85,22 @@ console.log("hello world!");
 
 
 
+// let temperature = 25;
+
+// if (temperature <= 10){
+//     console.log("Heavy jacket");
+    
+// } else if (temperature >= 10 && temperature <= 20){
+//     console.log("Sweater");
+    
+// } else if (temperature >=21 && temperature <= 30){
+//     console.log("T-Shirt");
+    
+// } else{
+//     console.log("Light Cloths");
+    
+// }
+
 
 
 
