@@ -18,33 +18,30 @@ console.log("hello world!");
 // }
 
 
-//////////////////     Error    ///////////////////////////////
 
-// let latedays = 0;
 
-// if (latedays === 0 , latedays * 0){
-//     console.log("$0 dollor, no due date");
+// let latedays = 12;
+
+// if (latedays === 0){
+//     console.log("$0 dollor, no due date no charges");
     
-// } else if (latedays >= 1 && latedays <=5 , latedays * 1){
-//     console.log("$1 dollor per day");
+// } else if (latedays <=5){
+//     console.log("$1 dollor per day" , latedays * 1);
     
-// } else if (latedays >=6 && latedays <=10 , latedays * 2){
-//     console.log("$5 dollor per day");
+// } else if (latedays <=10){
+//     console.log("$5 dollor per day" , latedays * 2);
     
 // } else {
-//     console.log("$5 doller per day");
+//     console.log("$5 doller per day" , latedays * 5);
     
 // }
 
 
 
-// let age = 10;
-// let ticket = false;
+// let age = 20;
+// let ticket = true;
 
-// if (age >=18){
-//     console.log("Welcome sir!");
-    
-// }else if (ticket === true){
+// if (age >=18 && ticket){
 //     console.log("Welcome sir!");
     
 // } else {
@@ -69,6 +66,25 @@ console.log("hello world!");
 //     console.log("Charge Now");
     
 // }
+
+
+
+// let student = false;
+// let age = 65;
+
+// if (student){
+//     console.log("20% discout for you");
+    
+// } else if (age >= 60){
+//     console.log("30% discout for you");
+    
+// } else{
+//     console.log("No any discount available!");
+    
+// }
+
+
+
 
 
 
