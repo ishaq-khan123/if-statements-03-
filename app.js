@@ -18,7 +18,7 @@ console.log("hello world!");
 // }
 
 
-
+//////////////////     Error    ///////////////////////////////
 
 // let latedays = 0;
 
@@ -37,7 +37,19 @@ console.log("hello world!");
 // }
 
 
+// let age = 10;
+// let ticket = false;
 
+// if (age >=18){
+//     console.log("Welcome sir!");
+    
+// }else if (ticket === true){
+//     console.log("Welcome sir!");
+    
+// } else {
+//     console.log("You are not eligible");
+    
+// }
 
 
 
