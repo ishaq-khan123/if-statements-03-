@@ -1,4 +1,4 @@
-console.log("hello world!");
+// console.log("hello world!");
 
 
 // let speed = 45;
@@ -188,7 +188,64 @@ console.log("hello world!");
 // }
 
 
+// let username = prompt("Username is :")
 
+// if (username === "admin"){
+//     console.log("Welcome admin!");
+    
+// } else {
+//     console.log("Access denied");
+    
+// }
+
+
+
+// let num1 = prompt("Enter first number");
+// let num2 = prompt("Enter second number");
+
+// if (num1 === num2){
+//     console.log("numbers are equal");
+    
+// } else {
+//     console.log("numbers are different");
+    
+// }
+
+
+
+// let num1 = prompt("Enter the first number");
+// let num2 = prompt("Enter the second number");
+
+// if (num1 > num2){
+//     alert("First number is larger");
+     
+// } else {
+//     alert("Second number in larger");
+    
+// }
+
+
+
+// let num = prompt("Enter the number");
+
+// if (num >100){
+//     alert("Too big");
+
+// } else {
+//     alert("Within range");
+    
+// }
+
+
+
+// let marks = 48;
+
+// if (marks >= 50){
+//     console.log("You passed");
+    
+// } else {
+//     console.log("you failed")
+// }
 
 
 
