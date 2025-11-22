@@ -37,6 +37,7 @@ console.log("hello world!");
 // }
 
 
+
 // let age = 10;
 // let ticket = false;
 
@@ -50,6 +51,26 @@ console.log("hello world!");
 //     console.log("You are not eligible");
     
 // }
+
+
+
+// let battery = 19;
+
+// if (battery >=80 && battery <=100){
+//     console.log("Fully charged");
+    
+// } else if (battery >=50 && battery <=79){
+//     console.log("Good battery");
+    
+// } else if (battery >=20 && battery <=49){
+//     console.log("Low battery");
+    
+// } else {
+//     console.log("Charge Now");
+    
+// }
+
+
 
 
 
