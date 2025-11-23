@@ -69,8 +69,8 @@ console.log("hello world!");
 
 
 
-// let student = false;
-// let age = 65;
+// let student = true;
+// let age = 18;
 
 // if (student){
 //     console.log("20% discout for you");
@@ -82,6 +82,10 @@ console.log("hello world!");
 //     console.log("No any discount available!");
     
 // }
+
+
+
+
 
 
 
