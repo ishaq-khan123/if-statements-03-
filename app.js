@@ -1,4 +1,4 @@
-console.log("hello world!");
+// console.log("hello world!");
 
 
 // let speed = 45;
@@ -20,7 +20,7 @@ console.log("hello world!");
 
 
 
-// let latedays = 12;
+// let latedays = 15;
 
 // if (latedays === 0){
 //     console.log("$0 dollor, no due date no charges");
@@ -84,6 +84,28 @@ console.log("hello world!");
 // }
 
 
+
+// let username = prompt("Enter username :")
+
+// if (username === "Alice"){
+//     alert("Hi! Alice");
+    
+// } else {
+//     alert("Your are not Alice");
+    
+// }
+
+
+
+// let password = prompt("Enter the password :")
+
+// if (password === "12345"){
+//     console.log("correct password");
+    
+// } else {
+//     console.log("Wrong password");
+    
+// }
 
 
 
