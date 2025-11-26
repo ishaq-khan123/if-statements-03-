@@ -249,6 +249,45 @@
 
 
 
+// let num = prompt("Enter a number");
+
+// if (num === "0"){
+//     alert("Zero");
+    
+// } else {
+//     alert("Not zero");
+    
+// }
+
+
+
+
+// let age = prompt("Enter your age :")
+
+// if (age >= "60"){
+//     console.log("You are senior citizen");
+    
+// } else {
+//     console.log("You are not senior citizen");
+    
+// }
+
+
+
+// let username = prompt("Enter your name :")
+
+// if (username === "alice"){
+//     alert("HI! Alice")
+
+// } else {
+//     alert("You are not Alice");
+    
+// }
+
+
+
+
+
 
 
 
