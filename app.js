@@ -20,7 +20,7 @@
 
 
 
-// let latedays = 12;
+// let latedays = 15;
 
 // if (latedays === 0){
 //     console.log("$0 dollor, no due date no charges");
@@ -69,8 +69,8 @@
 
 
 
-// let student = false;
-// let age = 65;
+// let student = true;
+// let age = 18;
 
 // if (student){
 //     console.log("20% discout for you");
@@ -237,7 +237,6 @@
 // }
 
 
-
 // let marks = 48;
 
 // if (marks >= 50){
@@ -260,10 +259,7 @@
 // }
 
 
-
-
 // let age = prompt("Enter your age :")
-
 // if (age >= "60"){
 //     console.log("You are senior citizen");
     
@@ -271,7 +267,6 @@
 //     console.log("You are not senior citizen");
     
 // }
-
 
 
 // let username = prompt("Enter your name :")
